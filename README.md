@@ -2,7 +2,7 @@
 We are working on a D3js project that will visualize spotify(api) music most played in a specified area w/ Google maps(api).
 
 ### Goals
-- [x] Presentable w/ good UI/UX
+- [ ] Presentable UI/UX
 - [ ] Working APIs as expected
 - [ ] Library Working
 
@@ -16,4 +16,4 @@ We are working on a D3js project that will visualize spotify(api) music most pla
 * [Miguel Ben](https://www.github.com/mius00) 🍕 🌱
 
 ## License
-Copyright (c) 2018 need_wood? | MIT
+Copyright (c) 2018 Team7-Voyage5 | MIT
