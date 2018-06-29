@@ -8,7 +8,7 @@ We are working on a D3js project that will visualize spotify(api) music most pla
 
 
 ## Live Preview
-[Preview](https://chingu-voyage5.github.io/Toucans-Team-7/.) **Nothing up yet**
+[Preview](https://chingu-voyage5.github.io/Toucans-Team-7/) **Nothing up yet**
 
 ## Tools
 We are using the following for this project:
